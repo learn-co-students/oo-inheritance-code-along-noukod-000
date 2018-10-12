@@ -1,4 +1,4 @@
-class Vehicle < Car
+class Car < Vehicule
   def go
       "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
     end
